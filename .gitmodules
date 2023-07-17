@@ -1,0 +1,9 @@
+[submodule "rlCraft"]
+	path = rlCraft
+	url = https://github.com/arlohb/rlCraft
+[submodule "FSharpCraft"]
+	path = FSharpCraft
+	url = https://github.com/arlohb/FSharpCraft
+[submodule "rlCraftC"]
+	path = rlCraftC
+	url = https://github.com/arlohb/rlCraft
